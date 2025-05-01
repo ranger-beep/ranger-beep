@@ -1,6 +1,5 @@
 ## Hi, I'm Rangga
-🧠​ AI & tech enthusiast<br/>
-🤖 Learning Python and geeking out over AI<br/>
+🧠​ Code & tech enthusiast<br/>
 🇮🇩 Indonesian in 🇩🇪 Germany<br/>
 
 ## 💻 Tech Stack:
